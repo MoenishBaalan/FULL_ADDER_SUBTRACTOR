@@ -49,11 +49,6 @@ Program to design a half subtractor and full subtractor circuit and verify its t
 Developed by: MOENISH BAALAN G
 RegisterNumber:212223220057
 ```
-Full Adder:
-![316725246-d663f44a-0493-4a9b-9d62-ba789741efe2](https://github.com/MoenishBaalan/FULL_ADDER_SUBTRACTOR/assets/147473396/62263466-854c-40c8-87df-a1a6f9b66020)
-
-Full Subtractor:
-![316725309-6d2297ef-9d0b-4034-bb0e-2c5fb250d7c2](https://github.com/MoenishBaalan/FULL_ADDER_SUBTRACTOR/assets/147473396/4b739da0-6a24-4c50-8a54-3e1243a077e7)
 
 **Full Adder:**
 
